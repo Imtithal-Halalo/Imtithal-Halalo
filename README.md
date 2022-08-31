@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imtithal Halalo &#128515;</h1>
 <h3 align="center">A Full Stack Web Developer is passionate and dedicated to what I do.</h3>
-<img align="right" width="400px" src="[https://i.pinimg.com/564x/cc/33/43/cc3343f5696a17a2fcbf7e897acfbe35.jpg]" alt="imtithal-halalo" />
+<img align="right" width="400px" src="https://i.pinimg.com/564x/cc/33/43/cc3343f5696a17a2fcbf7e897acfbe35.jpg" alt="imtithal-halalo" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtithal-halalo&label=Profile%20views&color=0e75b6&style=flat" alt="imtithal-halalo" /> </p>
